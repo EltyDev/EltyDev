@@ -1,4 +1,4 @@
-# Venodez in the place 🌠
+# Elty in the place 🌠
 
 Hi, welcome to my github profile where you can find many unfinished repo, It's my mark don't worry. But sometimes, I'm really determined and I do releases
 
