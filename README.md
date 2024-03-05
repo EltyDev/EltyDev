@@ -12,9 +12,9 @@ Hi, welcome to my github profile where you can find many unfinished repo, It's m
 
 ## Statistics 🎇
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venodez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EltyDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venodez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EltyDe&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
