@@ -12,13 +12,15 @@ Hi, welcome to my github profile where you can find many unfinished repo, It's m
 
 ## Statistics 🎇
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EltyDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EltyDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://ghreadme.amycute.xyz/api?username=EltyDev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://ghreadme.amycute.xyz/api/top-langs?username=EltyDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://ghreadme.amycute.xyz/api/wakatime?username=EliseDev&theme=tokyonight&hide_border=false&layout=compact&langs_count=10" height="150" alt="wakatime stats" />
+</div>
 
 ---
 
 ## Supporting
 ![LGBTQIA+](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Intersex-inclusive_pride_flag.svg/250px-Intersex-inclusive_pride_flag.svg.png)
 &nbsp;
-![Anarcom](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Anarchist_flag.svg/255px-Anarchist_flag.svg.png)
+![Anarcom](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Anarchist_flag.svg/250px-Anarchist_flag.svg.png)
